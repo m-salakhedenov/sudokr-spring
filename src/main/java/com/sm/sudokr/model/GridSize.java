@@ -1,6 +1,6 @@
 package com.sm.sudokr.model;
 
-enum GridSize {
+public enum GridSize {
 	SMALL(6), 
 	MEDIUM(9), 
 	LARGE(16);
